@@ -1,4 +1,4 @@
-# Create a video editor 
+# Create a text editor 
 
 Tutorial based on:
 https://viewsourcecode.org/snaptoken/kilo/
